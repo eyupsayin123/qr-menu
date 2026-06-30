@@ -34,7 +34,7 @@
           "price": 225,
           "note": "",
           "description": "",
-          "image": null,
+          "image": "images/menemen.jpg",
           "available": true
         },
         {
@@ -43,7 +43,7 @@
           "price": 250,
           "note": "",
           "description": "",
-          "image": null,
+          "image": "images/kasarli-menemen.jpg",
           "available": true
         },
         {
@@ -431,7 +431,7 @@
           "price": 190,
           "note": "",
           "description": "",
-          "image": null,
+          "image": "images/cilekli-milkshake.jpg",
           "available": true
         },
         {
