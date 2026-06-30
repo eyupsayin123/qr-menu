@@ -79,7 +79,7 @@
           "price": 225,
           "note": "",
           "description": "",
-          "image": null,
+          "image": "images/peynirli-omlet.jpg",
           "available": true
         },
         {
@@ -88,7 +88,7 @@
           "price": 250,
           "note": "",
           "description": "",
-          "image": null,
+          "image": "images/karisik-omlet.jpg",
           "available": true
         },
         {
@@ -237,7 +237,7 @@
           "price": 160,
           "note": "",
           "description": "",
-          "image": null,
+          "image": "images/cappuccino.jpg",
           "available": true
         },
         {
