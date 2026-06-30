@@ -52,7 +52,7 @@
           "price": 250,
           "note": "",
           "description": "",
-          "image": null,
+          "image": "images/sucuklu-yumurta.jpg",
           "available": true
         },
         {
@@ -61,7 +61,7 @@
           "price": 200,
           "note": "",
           "description": "",
-          "image": null,
+          "image": "images/sahanda-yumurta.jpg",
           "available": true
         },
         {
@@ -70,7 +70,7 @@
           "price": 200,
           "note": "",
           "description": "",
-          "image": null,
+          "image": "images/omlet.jpg",
           "available": true
         },
         {
