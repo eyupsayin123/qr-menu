@@ -375,7 +375,7 @@
         },
         {
           "id": "fuse-tea-seftali",
-          "name": "Fuse Tea Şeftali",
+          "name": "Lipton Mango",
           "price": 90,
           "note": "",
           "description": "",
@@ -389,7 +389,7 @@
           "note": "",
           "description": "",
           "image": null,
-          "available": true
+          "available": false
         },
         {
           "id": "fuse-tea-mango-ananas",
@@ -398,7 +398,7 @@
           "note": "",
           "description": "",
           "image": null,
-          "available": true
+          "available": false
         },
         {
           "id": "fuse-tea-karpuz",
@@ -407,7 +407,7 @@
           "note": "",
           "description": "",
           "image": null,
-          "available": true
+          "available": false
         },
         {
           "id": "limonata",
