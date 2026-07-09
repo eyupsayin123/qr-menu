@@ -16,7 +16,7 @@
           "price": 650,
           "note": "Kişi Başı",
           "description": "Peynir çeşitleri, zeytin, söğüş, reçel, tereyağı, bal, sıcak pişi ve sınırsız çay",
-          "image": "images/serpme-kahvalti.jpg",
+          "image": null,
           "available": true
         },
         {
@@ -25,7 +25,7 @@
           "price": 350,
           "note": "",
           "description": "",
-          "image": "images/kahvalti-tabagi.jpg",
+          "image": null,
           "available": true
         },
         {
@@ -34,7 +34,7 @@
           "price": 225,
           "note": "",
           "description": "",
-          "image": "images/menemen.jpg",
+          "image": null,
           "available": true
         },
         {
@@ -43,7 +43,7 @@
           "price": 250,
           "note": "",
           "description": "",
-          "image": "images/kasarli-menemen.jpg",
+          "image": null,
           "available": true
         },
         {
@@ -52,7 +52,7 @@
           "price": 250,
           "note": "",
           "description": "",
-          "image": "images/sucuklu-yumurta.jpg",
+          "image": null,
           "available": true
         },
         {
@@ -61,7 +61,7 @@
           "price": 200,
           "note": "",
           "description": "",
-          "image": "images/sahanda-yumurta.jpg",
+          "image": null,
           "available": true
         },
         {
@@ -70,7 +70,7 @@
           "price": 200,
           "note": "",
           "description": "",
-          "image": "images/omlet.jpg",
+          "image": null,
           "available": true
         },
         {
@@ -79,7 +79,7 @@
           "price": 225,
           "note": "",
           "description": "",
-          "image": "images/peynirli-omlet.jpg",
+          "image": null,
           "available": true
         },
         {
@@ -88,7 +88,7 @@
           "price": 250,
           "note": "",
           "description": "",
-          "image": "images/karisik-omlet.jpg",
+          "image": null,
           "available": true
         },
         {
@@ -97,7 +97,7 @@
           "price": 150,
           "note": "",
           "description": "",
-          "image": "images/gozleme-peynirli.jpg",
+          "image": null,
           "available": true
         },
         {
@@ -106,7 +106,7 @@
           "price": 150,
           "note": "",
           "description": "",
-          "image": "images/gozleme-patatesli.jpg",
+          "image": null,
           "available": true
         }
       ]
@@ -173,7 +173,7 @@
         {
           "id": "bazlama-tost",
           "name": "Bazlama Tost",
-          "price": 350,
+          "price": 300,
           "note": "",
           "description": "",
           "image": null,
@@ -237,7 +237,7 @@
           "price": 160,
           "note": "",
           "description": "",
-          "image": "images/cappuccino.jpg",
+          "image": null,
           "available": true
         },
         {
@@ -431,7 +431,7 @@
           "price": 190,
           "note": "",
           "description": "",
-          "image": "images/cilekli-milkshake.jpg",
+          "image": null,
           "available": true
         },
         {
