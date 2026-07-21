@@ -15,7 +15,7 @@
           "name": "Serpme Kahvaltı",
           "price": 650,
           "note": "Kişi Başı",
-          "description": "Peynir çeşitleri, zeytin, söğüş, reçel, tereyağı, bal, sıcak pişi ve sınırsız çay",
+          "description": "Yumurta , kızartmalıklar ,Peynir çeşitleri, zeytin, söğüş, reçel,  ve sınırsız çay",
           "image": null,
           "available": true
         },
@@ -58,7 +58,7 @@
         {
           "id": "sahanda-yumurta",
           "name": "Sahanda Yumurta",
-          "price": 200,
+          "price": 190,
           "note": "",
           "description": "",
           "image": null,
@@ -67,7 +67,7 @@
         {
           "id": "omlet",
           "name": "Omlet",
-          "price": 200,
+          "price": 190,
           "note": "",
           "description": "",
           "image": null,
@@ -98,7 +98,7 @@
           "note": "",
           "description": "",
           "image": null,
-          "available": true
+          "available": false
         },
         {
           "id": "gozleme-patatesli",
@@ -107,7 +107,7 @@
           "note": "",
           "description": "",
           "image": null,
-          "available": true
+          "available": false
         }
       ]
     },
@@ -123,7 +123,7 @@
           "note": "",
           "description": "",
           "image": null,
-          "available": true
+          "available": false
         },
         {
           "id": "patates-kizartmasi",
@@ -155,7 +155,7 @@
         {
           "id": "sigara-boregi",
           "name": "Sigara Böreği",
-          "price": 250,
+          "price": 300,
           "note": "",
           "description": "",
           "image": null,
@@ -211,7 +211,7 @@
           "note": "",
           "description": "",
           "image": null,
-          "available": true
+          "available": false
         },
         {
           "id": "espresso",
@@ -283,7 +283,7 @@
           "note": "",
           "description": "",
           "image": null,
-          "available": true
+          "available": false
         }
       ]
     },
@@ -304,7 +304,7 @@
         {
           "id": "sade-soda",
           "name": "Sade Soda",
-          "price": 40,
+          "price": 50,
           "note": "",
           "description": "",
           "image": null,
@@ -432,7 +432,7 @@
           "note": "",
           "description": "",
           "image": null,
-          "available": true
+          "available": false
         },
         {
           "id": "cikolatali-milkshake",
@@ -441,7 +441,7 @@
           "note": "",
           "description": "",
           "image": null,
-          "available": true
+          "available": false
         },
         {
           "id": "muzlu-milkshake",
@@ -450,7 +450,7 @@
           "note": "",
           "description": "",
           "image": null,
-          "available": true
+          "available": false
         },
         {
           "id": "oreo-milkshake",
@@ -459,7 +459,7 @@
           "note": "",
           "description": "",
           "image": null,
-          "available": true
+          "available": false
         }
       ]
     }
