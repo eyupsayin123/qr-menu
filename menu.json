@@ -462,6 +462,40 @@
           "available": false
         }
       ]
+    },
+    {
+      "id": "kategori",
+      "name": "Kiralanabilirler ",
+      "icon": "🍽️",
+      "items": [
+        {
+          "id": "semaver",
+          "name": "Semaver",
+          "price": 350,
+          "note": "",
+          "description": "",
+          "image": null,
+          "available": true
+        },
+        {
+          "id": "kucuk-mangal",
+          "name": "Küçük mangal",
+          "price": 300,
+          "note": "",
+          "description": "",
+          "image": null,
+          "available": true
+        },
+        {
+          "id": "buyuk-mangal",
+          "name": "Büyük mangal ",
+          "price": 400,
+          "note": "",
+          "description": "",
+          "image": null,
+          "available": true
+        }
+      ]
     }
   ]
 }
